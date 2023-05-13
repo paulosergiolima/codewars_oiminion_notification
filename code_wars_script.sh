@@ -1,0 +1,1 @@
+python /home/paulolima/codewars_api/main.py
